@@ -67,9 +67,6 @@ This project reframes the focus to examine **profitability per customer**, using
 
 ---
 
-Absolutely! Here's a version that includes a touch of emoji flair, your dashboard project title, and still keeps it clean and professional for GitHub:
-
----
 
 ## 📈 Project Title: Customer Profitability & Retention Analysis
 
