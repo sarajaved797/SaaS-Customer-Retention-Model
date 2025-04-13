@@ -66,6 +66,31 @@ This project reframes the focus to examine **profitability per customer**, using
 - Demonstrates the overall **revenue growth trend**, with clear **peaks and stable bases** that can help forecast future growth.
 
 ---
+## 📊 Interactive Dashboards on Tableau Public
+
+Explore visual stories of customer profitability, retention, and acquisition strategy:
+
+- 🔹 **Rev Trendline**  
+  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/RevTrendline)
+
+- 🔹 **Rev Retention by Cohort**  
+  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/RevRetentionbyCohort)
+
+- 🔹 **Subscription Tenure**  
+  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/SubscriptionTenure)
+
+- 🔹 **Churn Rate vs CAC**  
+  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/ChurnRatevsCAC)
+
+- 🔹 **Longevity vs Value**  
+  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/LongevityvsValue)
+
+- 🔹 **Revenue vs CAC**  
+  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/RevenuevsCAC)
+
+- 🔹 **Churned Rev vs Time**  
+  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/ChurnedRevvsTime)
+
 
 ## General Trends/Insights
 
