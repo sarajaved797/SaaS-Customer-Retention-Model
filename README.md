@@ -66,30 +66,25 @@ This project reframes the focus to examine **profitability per customer**, using
 - Demonstrates the overall **revenue growth trend**, with clear **peaks and stable bases** that can help forecast future growth.
 
 ---
-## 📊 Interactive Dashboards on Tableau Public
 
-Explore visual stories of customer profitability, retention, and acquisition strategy:
+Absolutely! Here's a version that includes a touch of emoji flair, your dashboard project title, and still keeps it clean and professional for GitHub:
 
-- 🔹 **Rev Trendline**  
-  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/RevTrendline)
+---
 
-- 🔹 **Rev Retention by Cohort**  
-  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/RevRetentionbyCohort)
+## 📈 Project Title: Customer Profitability & Retention Analysis
 
-- 🔹 **Subscription Tenure**  
-  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/SubscriptionTenure)
+A Tableau dashboard series that explores how customer acquisition cost, churn, and retention drive long-term revenue—using metrics like CLV:CAC, cohort behavior, and tenure trends.
 
-- 🔹 **Churn Rate vs CAC**  
-  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/ChurnRatevsCAC)
+🔗 **[View all visualizations on my Tableau Public profile](https://public.tableau.com/app/profile/sara.javed7099/vizzes)**
 
-- 🔹 **Longevity vs Value**  
-  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/LongevityvsValue)
-
-- 🔹 **Revenue vs CAC**  
-  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/RevenuevsCAC)
-
-- 🔹 **Churned Rev vs Time**  
-  [View Dashboard](https://public.tableau.com/app/profile/sara.javed7099/viz/ChurnedRevvsTime)
+### 💡 Key Insights:
+- 💰 **Premium-tier customers** yield the highest ROI (CLV:CAC > 3).
+- 
+- 🚪 **Churn peaks early** (Months 1–3)—strong onboarding is key.
+- 
+- 🎯 **Promotional cohorts** retain better and drive more revenue.
+- 
+- 🧨 **High CAC ≠ High Revenue**—suggests inefficient marketing and price-sensitive audience.
 
 
 ## General Trends/Insights
